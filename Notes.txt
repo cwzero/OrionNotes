@@ -22,7 +22,7 @@
 - Tasks (one-time ritual-like task to accomplish a goal)
 - Quests (magic, meta-ritual composed of smaller tasks)
 - Curses (rituals which must be observed any time it's appropriate to avoid a consequence)
-- Vampires (creatures who sustain by absorbing the life-force of others)
+- "Vampires" (creatures who sustain by absorbing the life-force of others)
     - Fear Eaters (invoke and consume fear)
 
 - Omens
