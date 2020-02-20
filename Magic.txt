@@ -1,0 +1,3 @@
+Information Magic:
+    - Swear to complete a task in order to reveal information,
+        or trade info for it (this should be based on a specific type of creature - information brokers)
